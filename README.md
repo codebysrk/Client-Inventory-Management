@@ -27,4 +27,3 @@ This project is a **Client Inventory Management System** built to manage client 
 ```bash
 git clone https://github.com/your-username/client-inventory-management.git
 
-![System Overview](assets/images/system-overview.png)
