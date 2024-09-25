@@ -21,12 +21,9 @@ This project is a **Client Inventory Management System** built to manage client 
 - Git
 
 ### Steps
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/client-inventory-management.git
-
-## ScreenShots
-
-https://github.com/codebysrk/Client-Inventory-Management/blob/main/assets/screenshots/001.png
+![001](https://github.com/user-attachments/assets/9913e4f0-fdab-41bb-ac84-21e85329fa3b)
+![002](https://github.com/user-attachments/assets/f3c63619-29d5-4f2f-b0e2-627630fe1b59)
+![003](https://github.com/user-attachments/assets/e778241b-869b-4273-96cd-5df66cea7cca)
+![004](https://github.com/user-attachments/assets/05d1496a-9629-4973-8103-b981a0432318)
+![005](https://github.com/user-attachments/assets/b051dbf4-2eb9-4352-ae1c-0262525341a3)
+![006](https://github.com/user-attachments/assets/2506c638-2a78-4aa2-9d00-cfb52e6bb3a5)
