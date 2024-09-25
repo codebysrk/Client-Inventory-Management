@@ -27,5 +27,5 @@ This project is a **Client Inventory Management System** built to manage client 
 ```bash
 git clone https://github.com/your-username/client-inventory-management.git
 
-[001](https://github.com/user-attachments/assets/9cb4873a-c1f7-4e4f-a970-bb53864a8779)
+![001](https://github.com/user-attachments/assets/9cb4873a-c1f7-4e4f-a970-bb53864a8779)
 
